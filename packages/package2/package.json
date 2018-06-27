@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "build": "echo package2"
+    }
+}
+
+

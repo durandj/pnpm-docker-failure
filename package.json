@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "bootstrap": "pnpm recursive link",
+        "build": "pnpm recursive run build"
+    }
+}
+
